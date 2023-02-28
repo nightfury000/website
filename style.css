@@ -11,6 +11,9 @@ body {
     color: aliceblue;
     
   }
+a:hover{
+  opacity : 0.8;
+}
   
 
   /* unvisited link */
